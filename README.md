@@ -6,4 +6,4 @@ each case the user has one chance at the game i.e. every wrong answer ends the g
 
 This is a beginner level Java Application using very basic codes.
 
-A full documentation has been provided in the repository.
+A full [documentation](https://github.com/prottayislive/firstJavaProject/blob/main/Game%20Documentation.pdf) has been provided in the repository.
